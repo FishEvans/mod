@@ -3182,7 +3182,7 @@
   </vessel>
 	
     <vessel uniqueID="7600" side="20" classname="Unknown Vessel" broadType="small">
-    <art meshfile="dat/Neutral/TriRev.dxs" diffuseFile="dat/Neutral/tri_dif.png" glowFile="dat/Neutral/tri_glow.png" specularFile="dat/Neutral/tri_Spec.png" scale="0.25" pushRadius="175"/>
+    <art meshfile="dat/TSN/Neutral/TriRev.dxs" diffuseFile="dat/TSN/Neutral/tri_dif.png" glowFile="dat/TSN/Neutral/tri_glow.png" specularFile="dat/TSN/Neutral/tri_Spec.png" scale="0.25" pushRadius="175"/>
     <!-- Weapons and Shields modified (1/4)-->
 	<shields front="40" back="30"/>
     <performance turnrate="0.004" topspeed="0.75"/>
@@ -3237,7 +3237,7 @@
   </vessel>    
   
   <vessel uniqueID="7601" side="20" classname="Unknown Transport" broadType="small">
-    <art meshfile="dat/Neutral/TriRev.dxs" diffuseFile="dat/Neutral/tri_dif.png" glowFile="dat/Neutral/tri_glow.png" specularFile="dat/Neutral/tri_Spec.png" scale="0.25" pushRadius="175"/>
+    <art meshfile="dat/TSN/Neutral/TriRev.dxs" diffuseFile="dat/TSN/Neutral/tri_dif.png" glowFile="dat/TSN/Neutral/tri_glow.png" specularFile="dat/TSN/Neutral/tri_Spec.png" scale="0.25" pushRadius="175"/>
     <!-- Weapons and Shields modified (1/4)-->
 	<shields front="40" back="30"/>
     <performance turnrate="0.003" topspeed="0.5"/>
