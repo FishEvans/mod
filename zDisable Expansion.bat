@@ -1,4 +1,4 @@
- XCOPY "dat\Logo512Original.png" "dat\Logo512.png" /Y /I
+ XCOPY "dat\Logo512Original.png" "dat\logo512.png" /Y /I
  
  XCOPY "dat\icon-nebulaOriginal.png" "dat\icon-nebula.png" /Y /I
  XCOPY "dat\icon-blackholeOriginal.png" "dat\icon-blackhole.png" /Y /I
